@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  WestpacProTest
+
+  Created by Vlad P on 23/09/2014.
+  Copyright (c) 2014 VladSoftware. All rights reserved.
+*/
+
+"NAV_ARTICLE_LIST_TITLE"            = "Articles";
+"NAV_ARTICLE_LIST_REFRESH"          = "Refresh";
+"NAV_ARTICLE_LIST_REFRESHING"       = "Refreshing...";
+"ERROR"                             = "Oops";
+"LOAD_ERROR_CONTENT"                = "Unable to load news articles.\nPlease check your internet connection.";
+"OK"                                = "OK";
